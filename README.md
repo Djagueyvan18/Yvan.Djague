@@ -4,7 +4,7 @@ YVAN KADJI DJAGUE - PORTOFOLIO
 
 🎯 **Développeur en formation | Passionné d’automatisation et d’intelligence artificielle**
 
-Bienvenue sur mon GitHub !
+Bienvenue sur mon Portofolio!
 Je suis un développeur débutant motivé par la **création de solutions intelligentes** et l’**automatisation des systèmes**.
 Actuellement étudiant en **Génie Logiciel** à l’**Institut Universitaire de la Côte (IUC) – Douala, Cameroun**, je développe mes compétences à travers des projets concrets alliant **programmation, IA et conception d’applications**.
 
