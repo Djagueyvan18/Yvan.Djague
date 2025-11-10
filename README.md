@@ -1,6 +1,4 @@
-Parfait 🙌 Voici un **README percutant et professionnel** pour ton portfolio GitHub, basé sur ton profil (Yvan Andy Djague Kadji Tchoffo) et ton parcours à l’IUC 👇
-
----
+YVAN KADJI DJAGUE - PORTOFOLIO
 
 # 👋 Salut, moi c’est **Yvan Andy Djague Kadji Tchoffo**
 
